@@ -33,7 +33,3 @@ This project recreates the classic block-stacking puzzle game. Players arrange f
 - `Assets/` — Game assets and resources
 - `Packages/` — Unity package dependencies
 - `ProjectSettings/` — Unity project configuration
-
-## Screenshots
-
-Add screenshots of the gameplay here.
